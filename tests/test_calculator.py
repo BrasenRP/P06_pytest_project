@@ -53,3 +53,14 @@ class TestCalculator:
         expt = 10
         assert res == expt
 
+    # def test_divide(self):
+    #     # Arrange
+    #     a = 0
+    #     b = 10
+    #     cal = Calculator()
+
+    #     #Act
+    #     with pytest.raises(ZeroDivisionError):
+    #         cal.divide(a,b)
+
+
